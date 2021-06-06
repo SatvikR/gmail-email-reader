@@ -6,7 +6,7 @@ This doesn't read your emails, it just marks them as read. Useful if you have to
 
 1. Follow [this](https://developers.google.com/workspace/guides/create-project) guide to create a GCP project. Make sure to enable `Gmail API`
 
-2. Follow [this](https://developers.google.com/workspace/guides/create-credentials) guide to create oauth credentials. Download your credentials, rename the JSON file to `credentials.json`.
+2. Follow [this](https://developers.google.com/workspace/guides/create-credentials) guide to create oauth credentials. Make sure to add the email you plan to use as a test user. Download your client secrets, and rename the JSON file to `credentials.json`.
 
 3. Install deps
 
