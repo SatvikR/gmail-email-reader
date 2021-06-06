@@ -1,6 +1,6 @@
 # Gmail Email Reader
 
-This doesn't read your emails, it just marks them as read. Useful if you have tons of emails that you wan't to mark as read.
+This doesn't read your emails, it just marks them as read. Useful if you have tons of emails that you want to mark as read.
 
 # Steps to run
 
